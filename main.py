@@ -166,6 +166,10 @@ stls = [
         'obj': top_case_bottom
     },
     {
+        'name': 'inner_plate', 
+        'obj': inner_plate
+    },
+    {
         'name': 'case_bottom', 
         'obj': bottom_case
     }
@@ -183,7 +187,7 @@ if __name__ == '__main__':
     out_dir = sys.argv[1] if len(sys.argv) > 1 else os.curdir
     file_out = os.path.join(out_dir, 'rpicamera.scad')
 
-    render_stls()
+    #render_stls()
 
     a = full #mount.full
 
