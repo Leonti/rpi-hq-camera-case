@@ -10,3 +10,5 @@ Here is how it looks printed. My z-offset wasn't correct for this print, so if p
 This is the inside view for mounting of the RPi Zero and the camera:
 
 ![Case vack](photos/case_back.jpg)
+
+[STLs on Thingiverse](https://www.thingiverse.com/thing:4646780)
