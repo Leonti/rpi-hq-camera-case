@@ -1,0 +1,5 @@
+node_modules
+XDG_CACHE_HOME
+stl
+__pycache__
+*.scad

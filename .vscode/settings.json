@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "/usr/bin/python3",
+  "saveAndRun": {
+    "commands": [
+      {
+        "match": "\\.py$",
+        "cmd": "python3 main.py",
+        "useShortcut": false,
+        "silent": false
+      }
+    ]
+  }
+}
